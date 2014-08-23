@@ -1,0 +1,9 @@
+Joystick: {
+	uuid: '13893331-2aea-11e4-9001-b7f689b1ce71',
+	token: '7xo98w5ul9fcg14i0e5xou7nzvfjq0k9'
+}
+
+Gateway: {
+	uuid: '40798cfc-0029-4e91-90ba-6c121740fd0e',
+	token: '392c767bd3434799a8c72376f754451'
+}
