@@ -1,0 +1,1 @@
+[{"id":"4f76347b.b089cc","type":"inject","name":"Headlight-Off","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"sidebarInput":false,"x":140,"y":222,"z":"ac8d83b3.53728","wires":[["6511a943.9aee58"]]}]
